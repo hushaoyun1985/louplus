@@ -1,3 +1,4 @@
+git clone link
 git add readme.md
 git status
 git config --global user.name "youername"
